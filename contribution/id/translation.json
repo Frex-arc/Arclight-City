@@ -1766,7 +1766,7 @@
 	"clanPlayer": {
 		"controlPointContributed": {
 			"eng": "control points: ${amount}",
-			"trans": "Titik kontrol: ${jumlah}"
+			"trans": "Titik kontrol: ${amount}"
 		},
 		"fundsContributed": {
 			"eng": "funds: ${amount}",
